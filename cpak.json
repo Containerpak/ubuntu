@@ -4,7 +4,7 @@
   "name": "Ubuntu",
   "description": "Ubuntu 26.04 LTS for persistent development and system environments.",
   "version": "26.04",
-  "image": "ghcr.io/containerpak/ubuntu-cpak@sha256:eced000d6879e98f2c4da0c22633bdb7e49a27ea9c5410f4796cf10dbc8e5d0f",
+  "image": "ghcr.io/containerpak/ubuntu-cpak@sha256:eb8e568a696e5c6b9984dadf22e0434c4337e414ee670402d04df5143e661603",
   "binaries": [
     "/bin/bash"
   ],
